@@ -52,4 +52,4 @@ def copy_current_script():
         print(e)
         exit()
 
-#copy_current_script()
+copy_current_script()
