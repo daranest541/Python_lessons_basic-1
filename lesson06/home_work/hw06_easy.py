@@ -14,7 +14,7 @@ class Triangle:
         self.ccord = ccord
         self.sides = self.sides_length()
 
-    def sides_length(self):
+    def sides_length(self): 
         """
         :return: dictionary длины сторон {C : длина AB , B : длина AC , A :  длина BC }
         """
